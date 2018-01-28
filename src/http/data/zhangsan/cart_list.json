@@ -1,0 +1,106 @@
+[
+    {
+        "goods_id": "2908",
+        "goods_name": "英发 金装椰香双皮奶 25g*5包/盒  2盒包邮",
+        "discount_price": "23.00",
+        "imgSrc": "/Uploads/images/old/data/20150427/goodsimage/huge/991129361bcd319ed4fbf1d8e987150cf65ae282.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "4300",
+        "goods_name": "台椰 生榨椰子汁果肉果味椰奶植物饮料椰汁  358ml*15瓶",
+        "discount_price": "78.00",
+        "imgSrc": "/Uploads/images/admin/depositstoregoodsupload/release/13309/2017-02/huge/6832066447.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "3064",
+        "goods_name": "舒川雪味 海苔3连包 韩国儿童烤海苔零食 4.5g*3",
+        "discount_price": "7.90",
+        "imgSrc": "/Uploads/images/old/data/20150427/goodsimage/huge/192df41b2894b7dec9d105e823fadaf89cd0d4db.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "4769",
+        "goods_name": "诗乡兔四川特产休闲兔肉零食50g多种口味麻辣小吃酱香大枣核桃味  50g",
+        "discount_price": "12.00",
+        "imgSrc": "/Uploads/images/admin/depositstoregoodsupload/release/0/2017-04/huge/3123730195.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "2614",
+        "goods_name": "光临  天然枸杞蜂蜜500g  包邮",
+        "discount_price": "39.00",
+        "imgSrc": "/Uploads/images/old/data/20150107/goodsimage/huge/a264a4278eda78321d0018eeb932ba2af86ed7ae.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "2435",
+        "goods_name": "韩国舒川雪味 海苔 4.5g*3袋*18 包邮 整箱",
+        "discount_price": "139.00",
+        "imgSrc": "/Uploads/images/old/data/20150107/goodsimage/huge/56482eadc1a46ea36465eb4b460fe7c00a3fe216.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "4909",
+        "goods_name": "希尔庄园 土耳其进口特级初榨橄榄油礼盒1L*2 送礼团购",
+        "discount_price": "286.00",
+        "imgSrc": "/public/upload/temp/2017/07-10/2fd4aaa9dc8720412f105b2519ece2c4.jpg",
+        "bool": false,
+        "num": 3
+    },
+    {
+        "goods_id": "650",
+        "goods_name": "南洋古早原味白咖啡40克*10",
+        "discount_price": "44.00",
+        "imgSrc": "/Uploads/images/old/data/20150107/goodsimage/huge/61ee32971b8c7242a6dacfc994b155ee1a423556.jpg",
+        "bool": false,
+        "num": 2
+    },
+    {
+        "goods_id": "631",
+        "goods_name": "南洋古早 540g炭烧黑咖啡 马来西亚原装进口",
+        "discount_price": "59.00",
+        "imgSrc": "/Uploads/images/old/data/20150107/goodsimage/huge/8fdef14a893db3ac7543b7dd5e27cccabf4f33b5.jpg",
+        "bool": false,
+        "num": 2
+    },
+    {
+        "goods_id": "4371",
+        "goods_name": "西域美农 黄金椰枣  250g",
+        "discount_price": "12.90",
+        "imgSrc": "/Uploads/images/admin/depositstoregoodsupload/release/0/2017-03/huge/9984964810.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "4490",
+        "goods_name": "哈肉联 哈肉联香惠肠90g×5袋 哈尔滨红肠 东北特产 哈红肠无肥肉丁 熏香肠  90g×5袋",
+        "discount_price": "36.80",
+        "imgSrc": "/Uploads/images/home/storegoodsupload/release/1418/2017-03/huge/6529765407.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "4348",
+        "goods_name": "西域美农 玫瑰红葡萄干  250g",
+        "discount_price": "9.90",
+        "imgSrc": "/Uploads/images/admin/depositstoregoodsupload/release/1348/2017-03/huge/6695064093.jpg",
+        "bool": false,
+        "num": 1
+    },
+    {
+        "goods_id": "4777",
+        "goods_name": "御龙源 北大荒酸菜棵500克×3袋 亲民有机酸菜棵 东北酸菜 笨酸菜  500g",
+        "discount_price": "45.80",
+        "imgSrc": "/public/upload/temp/2017/07-17/a1324f85faeab4bb134a74f5d9f1b1e4.jpg",
+        "bool": false,
+        "num": 8
+    }
+]
